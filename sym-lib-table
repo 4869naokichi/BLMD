@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BLMD")(type "KiCad")(uri "${KIPRJMOD}/BLMD.kicad_sym")(options "")(descr ""))
+)
